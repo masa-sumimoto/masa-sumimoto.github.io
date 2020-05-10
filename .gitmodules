@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/masa-sumimoto/masa-sumimoto.github.io.git
+	branch = master
