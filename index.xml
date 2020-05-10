@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masa Sumimoto Blog</title>
+    <link>https://masa-sumimoto.github.io/</link>
+    <description>Recent content on Masa Sumimoto Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>masa.sumimoto@gmail.com (Masaaki Sumimoto)</managingEditor>
+    <webMaster>masa.sumimoto@gmail.com (Masaaki Sumimoto)</webMaster>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://masa-sumimoto.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I tried using AFFINITY Designer</title>
+      <link>https://masa-sumimoto.github.io/post/2020-05-10-affinity-designer/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <author>masa.sumimoto@gmail.com (Masaaki Sumimoto)</author>
+      <guid>https://masa-sumimoto.github.io/post/2020-05-10-affinity-designer/</guid>
+      <description>I am currently studying a design software called AFFINITY Designer.
+It has the concept of PERSONA. I feel like I&amp;rsquo;m using Adobe Photoshop and Adobe Illustrator.
+One of my favorite tool is Isometric tool. By using this, it will be very easy to create a design using 3D or perspective.
+While learning it in the tutorial, I made some designs using the word TREK.
+I could easily create these typography.</description>
+    </item>
+    
+    <item>
+      <title>Hey guys!</title>
+      <link>https://masa-sumimoto.github.io/post/2020-05-09-hey-guys/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <author>masa.sumimoto@gmail.com (Masaaki Sumimoto)</author>
+      <guid>https://masa-sumimoto.github.io/post/2020-05-09-hey-guys/</guid>
+      <description>Hello, I am　Masaaki Sumimoto. Japanese. Please call me Masa or Masa Sumimoto (^^).
+I am based in Kobe, Japan.
+I love Programming, Design, Music and some Arts.
+I started test blog for learning SSG(Static Site Generator) is here.
+I may suddenly stop blogging or make a significant change.
+Therefore, I will also introduce My portal site . This domain will be permanent and I will operate.
+(^^)/</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://masa-sumimoto.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>masa.sumimoto@gmail.com (Masaaki Sumimoto)</author>
+      <guid>https://masa-sumimoto.github.io/page/about/</guid>
+      <description>Hi! I am a Frontend Developer, Based in Kobe, Japan. Both as a hobby and for work, I make websites, web services, Design and Music.
+My favorite time is to ride slowly on a sports bike in the city of Kobe.
+Skills Designing I use Adobe Photoshop, Adobe Illustrator, Adobe XD, Affinity Designer frequently.
+Programming I use HTML5, CSS(SCSS), JavaScript frequently.
+I have experience using PHP, Go, Ruby(Ruby on Rails), WordPress, MovableType, HUGO, React.</description>
+    </item>
+    
+  </channel>
+</rss>
