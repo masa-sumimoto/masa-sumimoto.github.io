@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Masa Sumimoto Blog</title>
+    <link>https://masa-sumimoto.github.io/en/categories/</link>
+    <description>Recent content in Categories on Masa Sumimoto Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>masa.sumimoto@gmail.com (Masaaki Sumimoto)</managingEditor>
+    <webMaster>masa.sumimoto@gmail.com (Masaaki Sumimoto)</webMaster>
+    
+	<atom:link href="https://masa-sumimoto.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -13,30 +13,35 @@
     
     
     <item>
-      <title>I tried using AFFINITY Designer</title>
+      <title>AFFINITY Designerを使ってみた</title>
       <link>https://masa-sumimoto.github.io/post/2020-05-10-affinity-designer/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       <author>masa.sumimoto@gmail.com (Masaaki Sumimoto)</author>
       <guid>https://masa-sumimoto.github.io/post/2020-05-10-affinity-designer/</guid>
-      <description>I am currently studying a design software called AFFINITY Designer.
-It has the concept of PERSONA. I feel like I&amp;rsquo;m using Adobe Photoshop and Adobe Illustrator.
-One of my favorite tool is Isometric tool. By using this, it will be very easy to create a design using 3D or perspective.
-While learning it in the tutorial, I made some designs using the word TREK.
-I could easily create these typography.</description>
+      <description>最近勉強中のデザインソフトAFFINITY Designerがめっちゃ良さそうです。
+ペルソナ というコンセプトを持っていて、 Adobe Photoshop and Adobe Illustrator を同時に使っているような使用感があります。
+特にお気に入りのツールが Isometric というツール。
+これを使うと3Dや遠近を表現するデザインが超速攻で作れます。
+チュートリアルをこなしながら、TREKという言葉を用いたタイポデザインをいくつか作ってみました。
+以下は一例です。
+3D New Retro また、使っていてかなりサクサク軽いなあ、という印象があります。
+WEBワイヤーフレームやモックアップを作る際にも最適ではないかなあ..など、いろいろ検討中です。
+もうしばし使ってみようと思います。</description>
     </item>
     
     <item>
-      <title>Hey guys!</title>
+      <title>初投稿 (´｡•ㅅ•｡`)</title>
       <link>https://masa-sumimoto.github.io/post/2020-05-09-hey-guys/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       <author>masa.sumimoto@gmail.com (Masaaki Sumimoto)</author>
       <guid>https://masa-sumimoto.github.io/post/2020-05-09-hey-guys/</guid>
-      <description>Hello, I am　Masaaki Sumimoto. Japanese. Please call me Masa or Masa Sumimoto (^^).
-I am based in Kobe, Japan.
-I love Programming, Design, Music and some Arts.
-I started test blog for learning SSG(Static Site Generator) is here.
-I may suddenly stop blogging or make a significant change.
-Therefore, I will also introduce My portal site . This domain will be permanent and I will operate.
+      <description>こんにちは。 兵庫県神戸市在住のフロントエンドエンジニア Sumimoto です。(^^)
+関東に拠点を持つIT系会社に属しており、リモートワークを神戸でのんびりやってます。
+プログラミング・デザイン・音楽・アートなどが大好き&amp;amp;勉強中です。
+このサイトは静的ジェネレータのテストのために作成しました。
+なのでとりあえず試験運転中で、削除するかもしれません。
+半永久的に停止している ポートフォリオ サイトは半永久的に残すつもりです。
+こちらもご覧いただけると幸いです。
 (^^)/</description>
     </item>
     
@@ -46,11 +51,32 @@ Therefore, I will also introduce My portal site . This domain will be permanent 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>masa.sumimoto@gmail.com (Masaaki Sumimoto)</author>
       <guid>https://masa-sumimoto.github.io/page/about/</guid>
-      <description>Hi! I am a Frontend Developer, Based in Kobe, Japan. Both as a hobby and for work, I make websites, web services, Design and Music.
-My favorite time is to ride slowly on a sports bike in the city of Kobe.
-Skills Designing I use Adobe Photoshop, Adobe Illustrator, Adobe XD, Affinity Designer frequently.
-Programming I use HTML5, CSS(SCSS), JavaScript frequently.
-I have experience using PHP, Go, Ruby(Ruby on Rails), WordPress, MovableType, HUGO, React.</description>
+      <description>こんにちは! 1982年生まれ。男性。兵庫県 神戸市在住。
+本名は住本 雅彰 (Masaaki Sumimoto) で、 Masa Sumimoto という名前をWEBではよく利用しています。
+仕事でフロントエンドエンジニアをしながら、趣味・仕事問わず、WEBサイトやWEBサービスを作ってます。 あと、デザインや作曲も少しやっています。
+最近のトレンドは、神戸の街を超低速で自転車徘徊することです。
+一緒に低速徘徊してくれるフレンズ募集中です。
+できること 仕事でやっていることやトライしていることを挙げますと、
+デザイン 普段頻繁に使うのは&amp;hellip;
+Adobe Photoshop, Adobe Illustrator, Adobe XD, Affinity Designer
+プログラミング 普段頻繁に使うのは&amp;hellip;
+HTML5, CSS(SCSS), JavaScript
+です。
+その他にも&amp;hellip;
+PHP, Go, Ruby(Ruby on Rails), WordPress, MovableType, HUGO, React.js, Vue.js
+を少々。
+DTM 普段頻繁に使うのは&amp;hellip;
+Ableton Live.
+です。
+その他にも&amp;hellip;
+Cakewalk SONAR, Steinberg Cubase
+などをやってきました。ただ、もう何年も
+WEBサイト このサイトです。現段階ではテスト的に運用してみてます。
+https://masa-sumimoto.github.io
+ここはポータルサイトです。長期放置中です。
+https://masa-sumimoto.com 
+その他のWEB媒体です。
+ Github SoundCloud Instagram  </description>
     </item>
     
   </channel>

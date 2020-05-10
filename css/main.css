@@ -1,7 +1,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -135,7 +135,6 @@ img {
 }
 
 /* --- Navbar --- */
-
 .navbar-custom {
   background: #242424;
   /* border-bottom: 1px solid #EAEAEA; */
@@ -182,6 +181,23 @@ img {
 .navbar-custom.top-nav-short .navbar-brand-logo img {
   height: 40px;
 }
+
+/* [note] 200510 Add by smmt */
+/* .header-lang-navlink {
+  margin-right: 20px;
+  background-color: #fff;
+}
+@media only screen and (max-width: 768px) {
+.header-lang-navlink {
+  margin-right: 0;
+  background-color: inherit;
+}
+} */
+
+.header-lang-navlink__lang {
+  color: #1992aa;
+}
+
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {

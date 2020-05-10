@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/tags/design/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/post/2020-05-10-affinity-designer/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/post/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/tags/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/post/2020-05-09-hey-guys/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/tags/life/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masa-sumimoto.github.io/page/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://masa-sumimoto.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-05-10T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://masa-sumimoto.github.io/ja/sitemap.xml</loc>
+		
+	   	<lastmod>2020-05-10T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
